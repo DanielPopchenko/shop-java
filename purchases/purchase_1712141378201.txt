@@ -1,0 +1,4 @@
+Purchase Date: Wed Apr 03 13:49:38 EEST 2024
+Items:
+Cheese - $3.99 x 2 = $7.98
+Total: $7.98

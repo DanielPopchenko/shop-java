@@ -1,0 +1,4 @@
+Purchase Date: Sat May 11 14:08:05 EEST 2024
+Items:
+Banana - $0.79 x 34 = $26.86
+Total: $26.86

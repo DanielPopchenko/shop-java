@@ -1,0 +1,5 @@
+Purchase Date: Wed Apr 03 13:14:42 EEST 2024
+Items:
+Apple - $0.99
+Eggs - $1.99
+Total: $2.98

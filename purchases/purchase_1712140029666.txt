@@ -1,0 +1,4 @@
+Purchase Date: Wed Apr 03 13:27:09 EEST 2024
+Items:
+Potato - $1.29 x 3 = $3.87
+Total: $3.87

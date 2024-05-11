@@ -1,0 +1,4 @@
+Purchase Date: Wed Apr 03 13:28:36 EEST 2024
+Items:
+Juice - $2.49 x 5 = $12.450000000000001
+Total: $12.450000000000001
